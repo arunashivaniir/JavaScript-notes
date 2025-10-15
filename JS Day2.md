@@ -40,4 +40,8 @@ const fname="Arunashivanir"
 let firstname=fname.slice(0,11)--->Arunashivani
 let lastname=fname.slice(11,12)--->r
 
+**METHOD CHAINING**
+Calling 1 method after another in one continuous line of code
+
+uname=uname.trim().charAt(0).toUpperCase() + uname.trim().slice(1).toLowerCase();
 
