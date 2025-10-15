@@ -45,3 +45,10 @@ Calling 1 method after another in one continuous line of code
 
 uname=uname.trim().charAt(0).toUpperCase() + uname.trim().slice(1).toLowerCase();
 
+Operators
+
+= -->assignment
+== --->comparison
+strict equality operator -->  === (checks values n data types)
+inequality operator -->  !=
+strict inequality operator -->  !== (checks values n data types)
