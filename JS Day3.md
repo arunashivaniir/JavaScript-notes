@@ -27,3 +27,4 @@ console.log(fruit);
 
 Spread operator---> ... allows an iterable like an array to be expanded into separate elements(unpacks)
 
+ 
