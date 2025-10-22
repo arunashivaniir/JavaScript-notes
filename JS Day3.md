@@ -15,4 +15,15 @@ let colours = ["blue","white","pink"]--->mutable
 operations in array:
 colours.push("black")
 colours.pop();
-colours.unshift("brown")
+colours.unshift("brown")-->add to beginning of array
+colours.shift("brown")-->remove from beginning
+colours.length;-->length of array
+colours.indexOf("pink")--->2
+
+let colour= ["blue","white","pink"]
+for(let colour of colours){ ----> prints all the elements one by one
+console.log(fruit);
+}
+
+Spread operator---> ... allows an iterable like an array to be expanded into separate elements(unpacks)
+
